@@ -1,2 +1,2 @@
-# leads-tracker-crm
-CRM to help track leads
+# Leads Tracker CRM
+Simple CRM to help track leads
